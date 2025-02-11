@@ -15,4 +15,4 @@ Camino profesional dentro de la empresa
 
 [Crioh] (www.crioh.com)
 
-![Tienda de bebes] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe6LCabCzXAmP0Kb-2snRG4DJazR_wJUopIw&s)
+![Tienda de bebes] ([https://alondrababy.com/cdn/shop/files/crioh-badajoz-2.jpg?v=1687848130&width=1200](https://alondrababy.com/cdn/shop/files/portada-C354-rosa.jpg?v=1736236291&width=800))
